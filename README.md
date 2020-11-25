@@ -15,8 +15,8 @@ process with unobserved (i.e. hidden) states.Hidden Markov models are especially
 
 ## For Running this project
 
-*step-1 Data file named spamdata_hmm.csv shoul be loaded with the code in google colab.
-*step-2 Run the ipynb file .
-*step-3 Accuracy , Precision and Confusion matrix is shown.
-*step-4 Console is asking for the user input, In this type the message for which you want to predict whether the message is Spam or Ham.
-*step-5 Result is shown as an output for that message.
+* Data file named spamdata_hmm.csv shoul be loaded with the code in google colab.
+* Run the ipynb file .
+* Accuracy , Precision and Confusion matrix is shown.
+* Console is asking for the user input, In this type the message for which you want to predict whether the message is Spam or Ham.
+* Result is shown as an output for that message.
