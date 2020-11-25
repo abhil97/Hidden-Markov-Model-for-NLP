@@ -5,9 +5,15 @@ process with unobserved (i.e. hidden) states.Hidden Markov models are especially
 
 ## Dependencies
 
-* Python 3, nltk,scikit-learn ,numpy , pandas ,re ,seaborn
+* Python 3
+* nltk
+* scikit-learn
+* numpy
+* pandas
+* re 
+* seaborn
 
-##For Running this project
+## For Running this project
 
 *step-1 Data file named spamdata_hmm.csv shoul be loaded with the code in google colab.
 *step-2 Run the ipynb file .
