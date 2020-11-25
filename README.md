@@ -20,3 +20,9 @@ process with unobserved (i.e. hidden) states . Hidden Markov models are especial
 * Accuracy , Precision and Confusion matrix is shown.
 * Console is asking for the user input. In this , type the message for which you want to predict whether the message is Spam or Ham.
 * Result is shown as an output for that message.
+
+## Output
+
+![result](output1.png)
+
+![input](input.png)
