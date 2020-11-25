@@ -1,7 +1,7 @@
 # Spam Ham classification using Hidden Markov Model
 
 In this Project we are classifying messages into two classes Ham or Spam using Hidden Markov Model which is a statistical model in which the model is assumed to be a Markov
-process with unobserved (i.e. hidden) states.Hidden Markov models are especially known for their application in reinforcement learning and temporal pattern recognition such as speech, handwriting, gesture recognition, part-of-speech tagging, musical score following, partial discharges and bioinformatics. 
+process with unobserved (i.e. hidden) states . Hidden Markov models are especially known for their application in reinforcement learning and temporal pattern recognition such as speech, handwriting, gesture recognition, part-of-speech tagging, musical score following, partial discharges and bioinformatics. 
 
 ## Dependencies
 
